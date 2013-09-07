@@ -1,0 +1,4833 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3166599", 
+                    "22.633602"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "1", 
+                "lat": "22.633602", 
+                "lng": "120.3166599", 
+                "location": "七賢一路/和平一路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000114"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2803044", 
+                    "22.6227596"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "2", 
+                "lat": "22.6227596", 
+                "lng": "120.2803044", 
+                "location": "公園路/七賢路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000128"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "3", 
+                "lat": null, 
+                "lng": null, 
+                "location": "大順路/九如路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000046"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.337593", 
+                    "22.636829"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "4", 
+                "lat": "22.636829", 
+                "lng": "120.337593", 
+                "location": "九如交流道", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000047"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2962069", 
+                    "22.6416458"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "5", 
+                "lat": "22.6416458", 
+                "lng": "120.2962069", 
+                "location": "九如路/自立陸橋", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000115"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3025899", 
+                    "22.641266"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "6", 
+                "lat": "22.641266", 
+                "lng": "120.3025899", 
+                "location": "九如路/博愛路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000116"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3443752", 
+                    "22.6363158"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "7", 
+                "lat": "22.6363158", 
+                "lng": "120.3443752", 
+                "location": "澄清/九如路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000007"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3443752", 
+                    "22.6363158"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "8", 
+                "lat": "22.6363158", 
+                "lng": "120.3443752", 
+                "location": "鳳山區-九如一路、澄清路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000183"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3088561", 
+                    "22.6610742"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "9", 
+                "lat": "22.6610742", 
+                "lng": "120.3088561", 
+                "location": "自由二路/明誠二路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000232"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3358428", 
+                    "22.6238501"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "10", 
+                "lat": "22.6238501", 
+                "lng": "120.3358428", 
+                "location": "武營/三多路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000022"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "11", 
+                "lat": null, 
+                "lng": null, 
+                "location": "三多路-高速公路下", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000072"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "12", 
+                "lat": null, 
+                "lng": null, 
+                "location": "凱旋二路/三多二路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000080"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "114.200412", 
+                    "22.2845959"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "13", 
+                "lat": "22.2845959", 
+                "lng": "114.200412", 
+                "location": "三多五路、成功二路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000224"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3217715", 
+                    "22.6774083"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "14", 
+                "lat": "22.6774083", 
+                "lng": "120.3217715", 
+                "location": "大中/榮總路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000038"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "15", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "大中高架道、左營高鐵站停車場出口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000034"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3231884", 
+                    "22.6765602"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "16", 
+                "lat": "22.6765602", 
+                "lng": "120.3231884", 
+                "location": "大中路/鼎中路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000148"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "17", 
+                "lat": null, 
+                "lng": null, 
+                "location": "大中高架道往東", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "18", 
+                "lat": null, 
+                "lng": null, 
+                "location": "大中二路、自由三路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000202"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "19", 
+                "lat": null, 
+                "lng": null, 
+                "location": "大中二路、民族一路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000203"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3231884", 
+                    "22.6765602"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "20", 
+                "lat": "22.6765602", 
+                "lng": "120.3231884", 
+                "location": "大中一路、鼎中路北側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000204"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "21", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中山/平和東路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000021"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2606453", 
+                    "22.8576098"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "22", 
+                "lat": "22.8576098", 
+                "lng": "120.2606453", 
+                "location": "中山/沿海路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000040"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3126217", 
+                    "22.6005452"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "23", 
+                "lat": "22.6005452", 
+                "lng": "120.3126217", 
+                "location": "中山三路/民權二路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000081"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3126217", 
+                    "22.6005452"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "24", 
+                "lat": "22.6005452", 
+                "lng": "120.3126217", 
+                "location": "中山三路/凱旋四路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000082"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3490266", 
+                    "22.7318092"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "25", 
+                "lat": "22.7318092", 
+                "lng": "120.3490266", 
+                "location": "中山路/中正路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000087"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3140981", 
+                    "22.5985763"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "26", 
+                "lat": "22.5985763", 
+                "lng": "120.3140981", 
+                "location": "中山三路/時代大道", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000090"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3044834", 
+                    "22.6139092"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "27", 
+                "lat": "22.6139092", 
+                "lng": "120.3044834", 
+                "location": "中山路/三多路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000091"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.29734", 
+                    "22.620338"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "28", 
+                "lat": "22.620338", 
+                "lng": "120.29734", 
+                "location": "中山/新田路口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000027"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3179343", 
+                    "22.5935457"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "29", 
+                "lat": "22.5935457", 
+                "lng": "120.3179343", 
+                "location": "中山路/凱旋路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000096"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3322339", 
+                    "22.5768225"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "30", 
+                "lat": "22.5768225", 
+                "lng": "120.3322339", 
+                "location": "中山四路/金福路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000098"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3022359", 
+                    "22.6359735"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "31", 
+                "lat": "22.6359735", 
+                "lng": "120.3022359", 
+                "location": "中山路/八德路(中博高架橋下)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000103"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3430358", 
+                    "22.569587"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "32", 
+                "lat": "22.569587", 
+                "lng": "120.3430358", 
+                "location": "大業北路/中山路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000134"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2610116", 
+                    "22.8556879"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "33", 
+                "lat": "22.8556879", 
+                "lng": "120.2610116", 
+                "location": "中山路/民生路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000107"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2593309", 
+                    "22.8604144"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "34", 
+                "lat": "22.8604144", 
+                "lng": "120.2593309", 
+                "location": "中山路/建國路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000111"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.372277", 
+                    "22.624566"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "35", 
+                "lat": "22.624566", 
+                "lng": "120.372277", 
+                "location": "鳳山區-中山東路、光遠東路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000185"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3023542", 
+                    "22.6344929"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "36", 
+                "lat": "22.6344929", 
+                "lng": "120.3023542", 
+                "location": "中山一路、七賢一路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000217"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3033957", 
+                    "22.6169552"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "37", 
+                "lat": "22.6169552", 
+                "lng": "120.3033957", 
+                "location": "中山二路、四維四路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000218"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "38", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中山二路、復興三路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000219"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "39", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中山二路、新光路東北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000220"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "40", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中山四路、中平路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000221"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "41", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中山四路、中安路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000222"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "42", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中山一路、中正三路東側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000231"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3417981", 
+                    "22.6245679"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "43", 
+                "lat": "22.6245679", 
+                "lng": "120.3417981", 
+                "location": "中正路/三多路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000085"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3505692", 
+                    "22.7460345"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "44", 
+                "lat": "22.7460345", 
+                "lng": "120.3505692", 
+                "location": "中正路/民族路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000086"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3450857", 
+                    "22.6156293"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "45", 
+                "lat": "22.6156293", 
+                "lng": "120.3450857", 
+                "location": "中正路 /凱旋路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000097"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2606453", 
+                    "22.8576098"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "46", 
+                "lat": "22.8576098", 
+                "lng": "120.2606453", 
+                "location": "中正路/ 中華路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000099"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2889836", 
+                    "22.6270699"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "47", 
+                "lat": "22.6270699", 
+                "lng": "120.2889836", 
+                "location": "河東路/中正路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000109"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "48", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中正二路、和平一路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000226"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3323552", 
+                    "22.6280965"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "49", 
+                "lat": "22.6280965", 
+                "lng": "120.3323552", 
+                "location": "中正一路、輔仁路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000227"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "50", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中正一路、福德路東北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000228"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "51", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中正一路、河北路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000229"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "52", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中正二路、民族二路東北角 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000230"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "53", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中安路、明鳳七街西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000223"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "54", 
+                "lat": null, 
+                "lng": null, 
+                "location": "左楠路/中海路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000093"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2924905", 
+                    "22.7006344"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "55", 
+                "lat": "22.7006344", 
+                "lng": "120.2924905", 
+                "location": "軍校路/中海路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000106"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "56", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中華/同盟路口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000024"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "57", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中華/民生路口東北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000025"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "58", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中華/明誠路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000044"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "59", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中華/三多路口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000028"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3096763", 
+                    "22.5934945"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "60", 
+                "lat": "22.5934945", 
+                "lng": "120.3096763", 
+                "location": "中華/凱旋路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000036"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2595813", 
+                    "22.8577049"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "61", 
+                "lat": "22.8577049", 
+                "lng": "120.2595813", 
+                "location": "中華/四維路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000037"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "117.1719975", 
+                    "39.1374091"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "62", 
+                "lat": "39.1374091", 
+                "lng": "117.1719975", 
+                "location": "中華/九如路口西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000002"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2918074", 
+                    "22.6419289"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "63", 
+                "lat": "22.6419289", 
+                "lng": "120.2918074", 
+                "location": "中華/九如路口東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000003"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2930145", 
+                    "22.6368964"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "64", 
+                "lat": "22.6368964", 
+                "lng": "120.2930145", 
+                "location": "中華/建國路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000004"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2945391", 
+                    "22.6326664"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "65", 
+                "lat": "22.6326664", 
+                "lng": "120.2945391", 
+                "location": "中華/七賢路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "66", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中華/五福路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000006"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "67", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中華/大順路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000008"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.351747", 
+                    "22.613392"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "68", 
+                "lat": "22.613392", 
+                "lng": "120.351747", 
+                "location": "鳳山區-五甲一路、瑞隆東路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000181"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3460374", 
+                    "22.6073518"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "69", 
+                "lat": "22.6073518", 
+                "lng": "120.3460374", 
+                "location": "鳳山區-五甲一路、南京路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000182"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.307853", 
+                    "22.626274"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "70", 
+                "lat": "22.626274", 
+                "lng": "120.307853", 
+                "location": "光華/五福路口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000019"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2909064", 
+                    "22.6206597"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "71", 
+                "lat": "22.6206597", 
+                "lng": "120.2909064", 
+                "location": "海邊/五福路口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000020"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2781366", 
+                    "22.6263352"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "72", 
+                "lat": "22.6263352", 
+                "lng": "120.2781366", 
+                "location": "五福四路/鼓山一路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000126"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2813907", 
+                    "22.6246971"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "73", 
+                "lat": "22.6246971", 
+                "lng": "120.2813907", 
+                "location": "五福路/七賢路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000129"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.330469", 
+                    "22.6723664"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "74", 
+                "lat": "22.6723664", 
+                "lng": "120.330469", 
+                "location": "仁雄路、鼎力路(路橋北側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000209"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "75", 
+                "lat": null, 
+                "lng": null, 
+                "location": "水管三路、義大二路(林山巷)東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000201"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3045375", 
+                    "22.7177056"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "76", 
+                "lat": "22.7177056", 
+                "lng": "120.3045375", 
+                "location": "左楠路/加昌路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000084"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2913736", 
+                    "22.7131651"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "77", 
+                "lat": "22.7131651", 
+                "lng": "120.2913736", 
+                "location": "軍校路/加昌路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000088"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "78", 
+                "lat": null, 
+                "lng": null, 
+                "location": "加昌路、海專路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000208"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "79", 
+                "lat": null, 
+                "lng": null, 
+                "location": "高屏大橋往西下橋匝道口(北側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000193"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "80", 
+                "lat": null, 
+                "lng": null, 
+                "location": "高屏大橋往東上橋匝道口(南側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000194"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "81", 
+                "lat": null, 
+                "lng": null, 
+                "location": "雙園大橋西向下橋(北側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000197"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4743661", 
+                    "22.8725272"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "82", 
+                "lat": "22.8725272", 
+                "lng": "120.4743661", 
+                "location": "旗南一路/中華路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4834626", 
+                    "22.879669"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "83", 
+                "lat": "22.879669", 
+                "lng": "120.4834626", 
+                "location": "中華路/旗屏路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700006"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4589462", 
+                    "22.7993791"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "84", 
+                "lat": "22.7993791", 
+                "lng": "120.4589462", 
+                "location": "旗南三路/內湖巷", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700009"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4601904", 
+                    "22.8034597"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "85", 
+                "lat": "22.8034597", 
+                "lng": "120.4601904", 
+                "location": "旗南三路/統領路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700010"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "86", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台21/興田路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700016"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "87", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台21/統嶺路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700017"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "88", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台21、斜張橋南側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000198"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "114.200412", 
+                    "22.2845959"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "89", 
+                "lat": "22.2845959", 
+                "lng": "114.200412", 
+                "location": "台21線/溪埔路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000199"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "90", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台21、縣186(中興東路)東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000200"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "91", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台21(統嶺路)、台22(里嶺大橋)東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000205"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "92", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台22/義大路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700011"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.495347", 
+                    "22.882837"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "93", 
+                "lat": "22.882837", 
+                "lng": "120.495347", 
+                "location": "旗屏一路/延平二路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700002"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4964651", 
+                    "22.8832198"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "94", 
+                "lat": "22.8832198", 
+                "lng": "120.4964651", 
+                "location": "延平二路/樹人橫路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700007"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "135.0287656", 
+                    "34.75976989999999"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "95", 
+                "lat": "34.75976989999999", 
+                "lng": "135.0287656", 
+                "location": "台28/縣181", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700018"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4964299", 
+                    "22.8789156"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "96", 
+                "lat": "22.8789156", 
+                "lng": "120.4964299", 
+                "location": "旗屏一路/旗屏路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4835699", 
+                    "22.8911277"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "97", 
+                "lat": "22.8911277", 
+                "lng": "120.4835699", 
+                "location": "中華路/延平一路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700003"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.5047238", 
+                    "22.8580431"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "98", 
+                "lat": "22.8580431", 
+                "lng": "120.5047238", 
+                "location": "旗屏路/廣和路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700004"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "99", 
+                "lat": null, 
+                "lng": null, 
+                "location": "萬大大橋往西下橋匝道口(北側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000195"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "100", 
+                "lat": null, 
+                "lng": null, 
+                "location": "萬大大橋往東上橋匝道口(南側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000196"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3137122", 
+                    "22.620158"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "101", 
+                "lat": "22.620158", 
+                "lng": "120.3137122", 
+                "location": "四維路/民權路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000146"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2880542", 
+                    "22.6817359"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "102", 
+                "lat": "22.6817359", 
+                "lng": "120.2880542", 
+                "location": "左營大路/勝利路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000117"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "103", 
+                "lat": null, 
+                "lng": null, 
+                "location": "本館路、球場路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000210"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "104", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民族/大順路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000014"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "117.1719975", 
+                    "39.1374091"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "105", 
+                "lat": "39.1374091", 
+                "lng": "117.1719975", 
+                "location": "民族/建工路口西南角 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000015"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "106", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民族/建工路口東北角 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000016"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "115.761216", 
+                    "34.437129"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "107", 
+                "lat": "34.437129", 
+                "lng": "115.761216", 
+                "location": "民族/河南路口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000017"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "108", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民族/八德路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000018"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.292388", 
+                    "22.662822"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "109", 
+                "lat": "22.662822", 
+                "lng": "120.292388", 
+                "location": "民族/明誠路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000039"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.291763", 
+                    "22.641668"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "110", 
+                "lat": "22.641668", 
+                "lng": "120.291763", 
+                "location": "民族/九如路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000043"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3162576", 
+                    "22.6634367"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "111", 
+                "lat": "22.6634367", 
+                "lng": "120.3162576", 
+                "location": "民族一路/十全一路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000066"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.288192", 
+                    "22.792701"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "112", 
+                "lat": "22.792701", 
+                "lng": "120.288192", 
+                "location": "大中/民族路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000033"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3162576", 
+                    "22.6634367"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "113", 
+                "lat": "22.6634367", 
+                "lng": "120.3162576", 
+                "location": "民族一路/天祥二路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000054"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "114", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民族/華夏路口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000013"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "115", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民權一路/五福一路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000063"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "116", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民權一路/三多三路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000064"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "117", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民權二路/一心二路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000065"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "118", 
+                "lat": null, 
+                "lng": null, 
+                "location": "民權一路/民生一路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000062"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4018863", 
+                    "22.6382501"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "119", 
+                "lat": "22.6382501", 
+                "lng": "120.4018863", 
+                "location": "鳳山區-光明路三段、江山路南側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000191"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3601214", 
+                    "22.6358221"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "120", 
+                "lat": "22.6358221", 
+                "lng": "120.3601214", 
+                "location": "鳳山區-光明路二段、琉球路南側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000192"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "121", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中正地下道", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999917"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "122", 
+                "lat": null, 
+                "lng": null, 
+                "location": "同盟地下道-1", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999920"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "123", 
+                "lat": null, 
+                "lng": null, 
+                "location": "同盟地下道-2", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999921"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2928523", 
+                    "22.6371026"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "124", 
+                "lat": "22.6371026", 
+                "lng": "120.2928523", 
+                "location": "新生地下道", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999922"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2924036", 
+                    "22.6384033"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "125", 
+                "lat": "22.6384033", 
+                "lng": "120.2924036", 
+                "location": "惠民地下道", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999923"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2889129", 
+                    "22.667638"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "126", 
+                "lat": "22.667638", 
+                "lng": "120.2889129", 
+                "location": "左營地下道-1", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999924"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2889129", 
+                    "22.667638"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "127", 
+                "lat": "22.667638", 
+                "lng": "120.2889129", 
+                "location": "左營地下道-2", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999925"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2928523", 
+                    "22.6371026"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "128", 
+                "lat": "22.6371026", 
+                "lng": "120.2928523", 
+                "location": "中華地下道-1", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999926"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2928523", 
+                    "22.6371026"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "129", 
+                "lat": "22.6371026", 
+                "lng": "120.2928523", 
+                "location": "中華地下道-2", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999927"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3363717", 
+                    "22.6232302"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "130", 
+                "lat": "22.6232302", 
+                "lng": "120.3363717", 
+                "location": "前鎮地下道-1", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999928"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.312807", 
+                    "22.610523"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "131", 
+                "lat": "22.610523", 
+                "lng": "120.312807", 
+                "location": "前鎮地下道-2", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999929"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3254347", 
+                    "22.585106"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "132", 
+                "lat": "22.585106", 
+                "lng": "120.3254347", 
+                "location": "大中地下道-1", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999930"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2889129", 
+                    "22.667638"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "133", 
+                "lat": "22.667638", 
+                "lng": "120.2889129", 
+                "location": "楠梓地下道-1", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999932"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2889129", 
+                    "22.667638"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "134", 
+                "lat": "22.667638", 
+                "lng": "120.2889129", 
+                "location": "楠梓地下道-2", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999933"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2962615", 
+                    "22.8029525"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "135", 
+                "lat": "22.8029525", 
+                "lng": "120.2962615", 
+                "location": "成功路/復興路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000140"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2993074", 
+                    "22.610094"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "136", 
+                "lat": "22.610094", 
+                "lng": "120.2993074", 
+                "location": "成功二路、新光路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000225"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "137", 
+                "lat": null, 
+                "lng": null, 
+                "location": "自由一路/十全一路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000055"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "138", 
+                "lat": null, 
+                "lng": null, 
+                "location": "自由四路/大中二路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000058"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "139", 
+                "lat": null, 
+                "lng": null, 
+                "location": "自由三路/新莊仔路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000059"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "140", 
+                "lat": null, 
+                "lng": null, 
+                "location": "自由二路/大順一路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000060"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3091714", 
+                    "22.6499996"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "141", 
+                "lat": "22.6499996", 
+                "lng": "120.3091714", 
+                "location": "自由一路/同盟路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000061"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "142", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 1公里處(東向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999983"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "143", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 13.6公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999990"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "144", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 15.766公里處(東向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999991"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "145", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 2.092公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999986"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "146", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 20.193公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999988"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "147", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 7.307公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999984"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "148", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 8.269公里處(東向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999987"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.6660044", 
+                    "23.0108714"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "149", 
+                "lat": "23.0108714", 
+                "lng": "120.6660044", 
+                "location": "快速公路88號 9.656公里處(東向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999985"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3056025", 
+                    "22.5915518"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "150", 
+                "lat": "22.5915518", 
+                "lng": "120.3056025", 
+                "location": "成功/擴建路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000023"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "151", 
+                "lat": null, 
+                "lng": null, 
+                "location": "光華二路/一心一路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000067"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2881581", 
+                    "22.6548679"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "152", 
+                "lat": "22.6548679", 
+                "lng": "120.2881581", 
+                "location": "美術館路/美術東二路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000119"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "153", 
+                "lat": null, 
+                "lng": null, 
+                "location": "左楠路/後昌路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000056"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "154", 
+                "lat": null, 
+                "lng": null, 
+                "location": "高鳳路/高松路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000076"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4703258", 
+                    "22.7416068"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "155", 
+                "lat": "22.7416068", 
+                "lng": "120.4703258", 
+                "location": "九如路交流道(國1以東)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000094"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3390169", 
+                    "22.6060588"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "156", 
+                "lat": "22.6060588", 
+                "lng": "120.3390169", 
+                "location": "瑞隆路/保泰路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000095"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.352594", 
+                    "22.558022"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "157", 
+                "lat": "22.558022", 
+                "lng": "120.352594", 
+                "location": "大業北路/中鋼路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000135"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "158", 
+                "lat": null, 
+                "lng": null, 
+                "location": "金福路/平和路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000142"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2990306", 
+                    "22.5707615"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "159", 
+                "lat": "22.5707615", 
+                "lng": "120.2990306", 
+                "location": "旗津路/廣澤街/敦和街", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000144"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.33503", 
+                    "22.737444"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "160", 
+                "lat": "22.737444", 
+                "lng": "120.33503", 
+                "location": "旗楠路/楠梓交流道", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000149"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2648236", 
+                    "22.6252669"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "161", 
+                "lat": "22.6252669", 
+                "lng": "120.2648236", 
+                "location": "蓮海路-中山大學大門停車場出口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000123"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.33019", 
+                    "22.7241549"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "162", 
+                "lat": "22.7241549", 
+                "lng": "120.33019", 
+                "location": "楠陽/鳳楠路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000009"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "163", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中正路交流道南下入口 ", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000011"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "164", 
+                "lat": null, 
+                "lng": null, 
+                "location": "中正路交流道北上入口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000012"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3048415", 
+                    "22.7852229"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "165", 
+                "lat": "22.7852229", 
+                "lng": "120.3048415", 
+                "location": "岡山南路/介壽東路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000161"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2978895", 
+                    "22.7972483"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "166", 
+                "lat": "22.7972483", 
+                "lng": "120.2978895", 
+                "location": "岡山路/中山北路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000162"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2984563", 
+                    "22.8074519"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "167", 
+                "lat": "22.8074519", 
+                "lng": "120.2984563", 
+                "location": "成功路/嘉新東路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000163"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2900596", 
+                    "22.7935246"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "168", 
+                "lat": "22.7935246", 
+                "lng": "120.2900596", 
+                "location": "阿公店路2段/溪西路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000164"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2885142", 
+                    "22.7907003"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "169", 
+                "lat": "22.7907003", 
+                "lng": "120.2885142", 
+                "location": "柳橋西路/(中華路、仁壽路口)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000165"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2978895", 
+                    "22.7972483"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "170", 
+                "lat": "22.7972483", 
+                "lng": "120.2978895", 
+                "location": "中山北路/中山南路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000167"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2988472", 
+                    "22.779873"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "171", 
+                "lat": "22.779873", 
+                "lng": "120.2988472", 
+                "location": "中山南路/岡山南路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000168"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.4831469", 
+                    "22.8834816"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "172", 
+                "lat": "22.8834816", 
+                "lng": "120.4831469", 
+                "location": "延平一路/大同街", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700008"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3190863", 
+                    "22.6651084"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "173", 
+                "lat": "22.6651084", 
+                "lng": "120.3190863", 
+                "location": "明誠路/金鼎路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000147"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "174", 
+                "lat": null, 
+                "lng": null, 
+                "location": "沿海路/東林街", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000049"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3630186", 
+                    "22.5536403"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "175", 
+                "lat": "22.5536403", 
+                "lng": "120.3630186", 
+                "location": "沿海路/茂大街", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000050"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2934242", 
+                    "22.6169286"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "176", 
+                "lat": "22.6169286", 
+                "lng": "120.2934242", 
+                "location": "海邊路/青年路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000100"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3293192", 
+                    "22.6522476"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "177", 
+                "lat": "22.6522476", 
+                "lng": "120.3293192", 
+                "location": "大昌路/建工路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000110"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2846154", 
+                    "22.634116"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "178", 
+                "lat": "22.634116", 
+                "lng": "120.2846154", 
+                "location": "建國三路/北端街", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000075"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3323423", 
+                    "22.8826816"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "179", 
+                "lat": "22.8826816", 
+                "lng": "120.3323423", 
+                "location": "建國路/和平路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000118"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3336611", 
+                    "22.8866154"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "180", 
+                "lat": "22.8866154", 
+                "lng": "120.3336611", 
+                "location": "建國路/民族路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000131"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3431391", 
+                    "22.8690428"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "181", 
+                "lat": "22.8690428", 
+                "lng": "120.3431391", 
+                "location": "建國路/建國交流道(北上)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000132"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3431391", 
+                    "22.8690428"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "182", 
+                "lat": "22.8690428", 
+                "lng": "120.3431391", 
+                "location": "建國路/建國交流道(南下)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000133"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3256349", 
+                    "22.6328074"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "183", 
+                "lat": "22.6328074", 
+                "lng": "120.3256349", 
+                "location": "建國路/大順路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000108"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.350667", 
+                    "22.6374932"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "184", 
+                "lat": "22.6374932", 
+                "lng": "120.350667", 
+                "location": "鳳山區-建國路三段、青年路二段東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000184"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3275094", 
+                    "22.7227043"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "185", 
+                "lat": "22.7227043", 
+                "lng": "120.3275094", 
+                "location": "高楠公路/楠陽路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000051"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "186", 
+                "lat": null, 
+                "lng": null, 
+                "location": "高楠公路/水管路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000052"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "187", 
+                "lat": null, 
+                "lng": null, 
+                "location": "高楠公路/加昌路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000053"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.308098", 
+                    "22.6864738"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "188", 
+                "lat": "22.6864738", 
+                "lng": "120.308098", 
+                "location": "高鐵路/重信路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700015"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.345154", 
+                    "22.6216533"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "189", 
+                "lat": "22.6216533", 
+                "lng": "120.345154", 
+                "location": "鳳山區-國泰路二段、南京路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000169"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3487099", 
+                    "22.619667"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "190", 
+                "lat": "22.619667", 
+                "lng": "120.3487099", 
+                "location": "鳳山區-國泰路二段、青年路一段東北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000170"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3534852", 
+                    "22.6162624"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "191", 
+                "lat": "22.6162624", 
+                "lng": "120.3534852", 
+                "location": "鳳山區-國泰路二段、五甲二路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000171"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.362647", 
+                    "22.614483"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "192", 
+                "lat": "22.614483", 
+                "lng": "120.362647", 
+                "location": "鳳山區-國泰路一段、鳳頂路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000172"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "193", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 0.505 KM(東向側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999910"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "194", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 11.67公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999959"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "195", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 13.012公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999962"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "196", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 14.5公里處(東向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999958"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "197", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 16.3公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999957"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "198", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 18.3公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999960"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "199", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 2.125 KM(西向側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999911"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "200", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 21.44公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999961"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "201", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 3.616KM(東向側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999912"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "202", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 5.264KM(東向側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999913"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "203", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 6.992 KM(東向側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999914"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.402416", 
+                    "22.7693601"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "204", 
+                "lat": "22.7693601", 
+                "lng": "120.402416", 
+                "location": "國道10號 9.21公里處(西向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999956"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "205", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號 353.83公里處(北向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999953"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "206", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號 355.01公里處(北向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999949"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "207", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號 357.89公里處(北向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999951"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "208", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號 360.695公里處(南向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999950"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "209", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號 361.65公里處(北向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999947"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "210", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號 363公里處(南向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999998"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "211", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號364.495KM(北上側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999935"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3344455", 
+                    "22.7395029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "212", 
+                "lat": "22.7395029", 
+                "lng": "120.3344455", 
+                "location": "國道1號365.71KM(南下側)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999936"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "213", 
+                "lat": null, 
+                "lng": null, 
+                "location": "高速公路(南下交流道)、鳳楠路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000206"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "214", 
+                "lat": null, 
+                "lng": null, 
+                "location": "高速公路(興西路)、鳳仁路東北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000207"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3223514", 
+                    "22.6018213"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "215", 
+                "lat": "22.6018213", 
+                "lng": "120.3223514", 
+                "location": "凱旋四路/忠誠路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000150"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3034525", 
+                    "22.6703721"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "216", 
+                "lat": "22.6703721", 
+                "lng": "120.3034525", 
+                "location": "新莊路-博愛路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000071"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3033201", 
+                    "22.6561579"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "217", 
+                "lat": "22.6561579", 
+                "lng": "120.3033201", 
+                "location": "大順一路/博愛二路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000077"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3035235", 
+                    "22.670346"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "218", 
+                "lat": "22.670346", 
+                "lng": "120.3035235", 
+                "location": "博愛三路/新莊仔路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000101"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2942246", 
+                    "22.6605861"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "219", 
+                "lat": "22.6605861", 
+                "lng": "120.2942246", 
+                "location": "博愛路/裕誠路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000102"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "220", 
+                "lat": null, 
+                "lng": null, 
+                "location": "博愛路/熱河路(中博高架橋下)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000104"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "221", 
+                "lat": null, 
+                "lng": null, 
+                "location": "博愛/大中路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000010"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3079533", 
+                    "22.6788653"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "222", 
+                "lat": "22.6788653", 
+                "lng": "120.3079533", 
+                "location": "博愛三路、曾子路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000211"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3035426", 
+                    "22.6544322"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "223", 
+                "lat": "22.6544322", 
+                "lng": "120.3035426", 
+                "location": "博愛一路、龍德路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000212"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3036704", 
+                    "22.6518481"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "224", 
+                "lat": "22.6518481", 
+                "lng": "120.3036704", 
+                "location": "博愛一路、同盟二路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000213"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "225", 
+                "lat": null, 
+                "lng": null, 
+                "location": "博愛一路、十全二路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000214"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3100735", 
+                    "22.6811772"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "226", 
+                "lat": "22.6811772", 
+                "lng": "120.3100735", 
+                "location": "博愛三路、大中二路西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000215"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "227", 
+                "lat": null, 
+                "lng": null, 
+                "location": "博愛二路、立信街266巷西北角(漢神巨蛋對面)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000216"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.269866", 
+                    "22.613676"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "228", 
+                "lat": "22.613676", 
+                "lng": "120.269866", 
+                "location": "鼓山渡輪站", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000124"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.269866", 
+                    "22.613676"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "229", 
+                "lat": "22.613676", 
+                "lng": "120.269866", 
+                "location": "旗津渡輪站", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000136"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "230", 
+                "lat": null, 
+                "lng": null, 
+                "location": "漁港/新生路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000041"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.32", 
+                    "22.5717186"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "231", 
+                "lat": "22.5717186", 
+                "lng": "120.32", 
+                "location": "新生路-后安路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000069"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.304271", 
+                    "22.5910456"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "232", 
+                "lat": "22.5910456", 
+                "lng": "120.304271", 
+                "location": "新生路/擴建路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000073"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3157939", 
+                    "22.576697"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "233", 
+                "lat": "22.576697", 
+                "lng": "120.3157939", 
+                "location": "新生路/金福路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000074"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "234", 
+                "lat": null, 
+                "lng": null, 
+                "location": "義大世界停車場", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999996"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "235", 
+                "lat": null, 
+                "lng": null, 
+                "location": "義大世界入口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999997"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3139665", 
+                    "22.5631001"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "236", 
+                "lat": "22.5631001", 
+                "lng": "120.3139665", 
+                "location": "過港隧道(前鎮端出入口)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999903"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "237", 
+                "lat": null, 
+                "lng": null, 
+                "location": "過港隧道(往旗津隧道內第一支)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999904"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "238", 
+                "lat": null, 
+                "lng": null, 
+                "location": "過港隧道(往旗津隧道內第二支)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999907"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3139665", 
+                    "22.5631001"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "239", 
+                "lat": "22.5631001", 
+                "lng": "120.3139665", 
+                "location": "過港隧道(旗津端出入口)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999908"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "240", 
+                "lat": null, 
+                "lng": null, 
+                "location": "過港隧道(過港隧道接旗津一路)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999902"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3139665", 
+                    "22.5631001"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "241", 
+                "lat": "22.5631001", 
+                "lng": "120.3139665", 
+                "location": "過港隧道(往市區隧道內第一支)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999905"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3139665", 
+                    "22.5631001"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "242", 
+                "lat": "22.5631001", 
+                "lng": "120.3139665", 
+                "location": "過港隧道(往市區隧道內第二支)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999901"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "243", 
+                "lat": null, 
+                "lng": null, 
+                "location": "過港隧道(過港隧道接新生路)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999906"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.269943", 
+                    "22.609409"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "244", 
+                "lat": "22.609409", 
+                "lng": "120.269943", 
+                "location": "旗津/安樂巷口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000029"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2873266", 
+                    "22.5879991"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "245", 
+                "lat": "22.5879991", 
+                "lng": "120.2873266", 
+                "location": "旗津/北汕巷口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000030"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2757661", 
+                    "22.6031852"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "246", 
+                "lat": "22.6031852", 
+                "lng": "120.2757661", 
+                "location": "旗津/中洲三路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000031"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2847331", 
+                    "22.5897582"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "247", 
+                "lat": "22.5897582", 
+                "lng": "120.2847331", 
+                "location": "旗津三路/旗港路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000032"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.322859", 
+                    "22.5818592"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "248", 
+                "lat": "22.5818592", 
+                "lng": "120.322859", 
+                "location": "漁港路/草衙路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000145"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "249", 
+                "lat": null, 
+                "lng": null, 
+                "location": "翠華/大中路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000045"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "250", 
+                "lat": null, 
+                "lng": null, 
+                "location": "翠華路/明潭路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000048"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2910642", 
+                    "22.6720698"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "251", 
+                "lat": "22.6720698", 
+                "lng": "120.2910642", 
+                "location": "翠華路/華榮路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000121"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2842683", 
+                    "22.6621878"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "252", 
+                "lat": "22.6621878", 
+                "lng": "120.2842683", 
+                "location": "翠華/新莊仔路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000035"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3027862", 
+                    "22.698991"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "253", 
+                "lat": "22.698991", 
+                "lng": "120.3027862", 
+                "location": "左楠路/翠華路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000057"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3638645", 
+                    "22.6351777"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "254", 
+                "lat": "22.6351777", 
+                "lng": "120.3638645", 
+                "location": "建國路/經武路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000159"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3394861", 
+                    "22.6294914"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "255", 
+                "lat": "22.6294914", 
+                "lng": "120.3394861", 
+                "location": "中山西路/光復路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000156"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "256", 
+                "lat": null, 
+                "lng": null, 
+                "location": "光遠路西向路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000151"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3429088", 
+                    "22.6063638"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "257", 
+                "lat": "22.6063638", 
+                "lng": "120.3429088", 
+                "location": "瑞隆東路出口閘道南向路口", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000152"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3471855", 
+                    "22.647456"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "258", 
+                "lat": "22.647456", 
+                "lng": "120.3471855", 
+                "location": "澄清路/本館路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000158"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "259", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台88鳳山交流道東向", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000153"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    null, 
+                    null
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "260", 
+                "lat": null, 
+                "lng": null, 
+                "location": "台88鳳山交流道西向", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000154"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3565952", 
+                    "22.6260078"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "261", 
+                "lat": "22.6260078", 
+                "lng": "120.3565952", 
+                "location": "中山路/光遠路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000157"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3442909", 
+                    "22.6248664"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "262", 
+                "lat": "22.6248664", 
+                "lng": "120.3442909", 
+                "location": "澄清路/自由路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000155"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3892444", 
+                    "22.6340367"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "263", 
+                "lat": "22.6340367", 
+                "lng": "120.3892444", 
+                "location": "鳳山區-鳳屏一路、大漢路路口東側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000186"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3910216", 
+                    "22.6352898"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "264", 
+                "lat": "22.6352898", 
+                "lng": "120.3910216", 
+                "location": "鳳山區-鳳屏一路、光明路三段西南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000187"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3910216", 
+                    "22.6352898"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "265", 
+                "lat": "22.6352898", 
+                "lng": "120.3910216", 
+                "location": "鳳山區-鳳屏一路、光明路三段東北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000188"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3910216", 
+                    "22.6352898"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "266", 
+                "lat": "22.6352898", 
+                "lng": "120.3910216", 
+                "location": "鳳山區-鳳屏一路、九和路西側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000189"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3910216", 
+                    "22.6352898"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "267", 
+                "lat": "22.6352898", 
+                "lng": "120.3910216", 
+                "location": "鳳山區-鳳屏一路、九和路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000190"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.360478", 
+                    "22.598228"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "268", 
+                "lat": "22.598228", 
+                "lng": "120.360478", 
+                "location": "鳳山區-鳳頂路、保生路東北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000173"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3610433", 
+                    "22.7033395"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "269", 
+                "lat": "22.7033395", 
+                "lng": "120.3610433", 
+                "location": "澄觀路/水管路東側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700013"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3610433", 
+                    "22.7033395"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "270", 
+                "lat": "22.7033395", 
+                "lng": "120.3610433", 
+                "location": "澄觀路/水管路西側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700014"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3607524", 
+                    "22.7303178"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "271", 
+                "lat": "22.7303178", 
+                "lng": "120.3607524", 
+                "location": "中山路/和平一路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700012"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.3854063", 
+                    "22.5894207"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "272", 
+                "lat": "22.5894207", 
+                "lng": "120.3854063", 
+                "location": "鳳山區-縣188、內坑路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000174"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.375256", 
+                    "22.6222822"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "273", 
+                "lat": "22.6222822", 
+                "lng": "120.375256", 
+                "location": "鳳山區-縣188、鳳林路北側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000175"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.375256", 
+                    "22.6222822"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "274", 
+                "lat": "22.6222822", 
+                "lng": "120.375256", 
+                "location": "鳳山區-縣188、鳳林路南側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000176"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.36029", 
+                    "22.625451"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "275", 
+                "lat": "22.625451", 
+                "lng": "120.36029", 
+                "location": "鳳山區-縣188、光明路西側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000177"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.36029", 
+                    "22.625451"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "276", 
+                "lat": "22.625451", 
+                "lng": "120.36029", 
+                "location": "鳳山區-縣188、光明路東側", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000178"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.35", 
+                    "22.6333333"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "277", 
+                "lat": "22.6333333", 
+                "lng": "120.35", 
+                "location": "鳳山區-縣188、華中路東南角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000179"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.35", 
+                    "22.6333333"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "278", 
+                "lat": "22.6333333", 
+                "lng": "120.35", 
+                "location": "鳳山區-縣188、華中路西北角", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000180"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.5294796", 
+                    "22.922159"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "279", 
+                "lat": "22.922159", 
+                "lng": "120.5294796", 
+                "location": "月光山隧道-1號攝影機(北向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999992"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.5294796", 
+                    "22.922159"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "280", 
+                "lat": "22.922159", 
+                "lng": "120.5294796", 
+                "location": "月光山隧道-2號攝影機(南向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999993"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.5294796", 
+                    "22.922159"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "281", 
+                "lat": "22.922159", 
+                "lng": "120.5294796", 
+                "location": "月光山隧道-3號攝影機(南向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999994"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.5294796", 
+                    "22.922159"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "282", 
+                "lat": "22.922159", 
+                "lng": "120.5294796", 
+                "location": "月光山隧道-4號攝影機(北向)", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C999995"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2695341", 
+                    "22.6244382"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "283", 
+                "lat": "22.6244382", 
+                "lng": "120.2695341", 
+                "location": "哨船街/臨海二路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000122"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "120.2749853", 
+                    "22.6212795"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "channel_id": "284", 
+                "lat": "22.6212795", 
+                "lng": "120.2749853", 
+                "location": "鼓山一路/臨海二路", 
+                "video_url": "http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000125"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
